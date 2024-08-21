@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2024-08-21T18:13:34.208Z"
+    "x-generation-date": "2024-08-21T19:26:33.065Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -25,7 +25,7 @@
   },
   "servers": [
     {
-      "url": "http://0.0.0.0:8000/api",
+      "url": "http://localhost:8000/api",
       "description": "Development server"
     }
   ],
